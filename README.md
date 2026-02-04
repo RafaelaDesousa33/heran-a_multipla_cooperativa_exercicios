@@ -4,6 +4,11 @@ Este repositório contém exercícios e exemplos práticos sobre herança múlti
 
 O objetivo é estudar herança múltipla de forma consciente, entendendo como as classes cooperam entre si na inicialização e execução de métodos, evitando conflitos e duplicações.
 
+## Ilustração do Projeto
+
+![Demonstração:](herança_multipla_cooperativa_exercicios_foto.png)
+
+
 Objetivo do Projeto
 
 Compreender como funciona a herança múltipla em Python
